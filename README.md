@@ -1,6 +1,4 @@
 # Agri-Food-Supply-Chain
-
-# FOOD_SUPPLY
 <h1>Processed Food Traceability using Blockchain Technology</h1>
 
 
